@@ -13,3 +13,10 @@ gokiimax@github
  Languages   :   c#, python, java, html, css, js
 
 ```
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.com/users/534341726685626379">
+        <img alt="gokiimaxs's discord" src="https://discord.c99.nl/widget/theme-1/534341726685626379.png"/>
+    </a>
+</p>
