@@ -9,7 +9,7 @@ gokiimax@github
 -----------------
 
                 OS   :   windows x64
-       Discord   :   maxシ#6858
-Languages   :    c#, python, java, html, css, js
+         Discord   :   maxシ#6858
+      Languages   :    c#, python, java, html, css, js
 
 ```
