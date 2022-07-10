@@ -9,9 +9,9 @@ gokiimax@github
 -----------------
 
         OS   :   windows x64
+     Alias   :   max
    Discord   :   maxシ#6858
  Languages   :   c#, python, java, html, css, js
-Working on   :   [customRPC](https://github.com/gokiimax/customRPC)
 
 ```
 
