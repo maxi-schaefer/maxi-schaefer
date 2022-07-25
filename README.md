@@ -8,7 +8,8 @@
     Meta Builder:
     <b><a href="https://gokiimax.github.io/meta-builder">Website</a></b>
   </samp>
-<br>
-<br>
-  ![](https://github-readme-stats.vercel.app/api?username=gokiimax&theme=rose_pine)
+<br> 
 </p>
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=gokiimax&theme=rose_pine)
+ </div>
