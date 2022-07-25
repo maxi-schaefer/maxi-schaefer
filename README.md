@@ -10,6 +10,4 @@
   </samp>
 <br> 
 </p>
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=gokiimax&theme=rose_pine)
- </div>
+![](https://github-readme-stats.vercel.app/api?username=gokiimax&theme=rose_pine)
