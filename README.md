@@ -10,5 +10,5 @@
   </samp>
 <br>
 <br>
-  <a href="https://discord.gg/yVWygKS3Xn"><img src="https://discord.com/api/guilds/999373116918743100/widget.png"></a>
+  ![](https://github-readme-stats.vercel.app/api?username=gokiimax&theme=rose_pine)
 </p>
