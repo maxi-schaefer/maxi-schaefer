@@ -6,7 +6,7 @@
   <br>
   <samp>
     Current Project:
-    <b><a href="https://github.com/gokiimax/astro">Astro</a></b>
+    <b><a href="https://github.com/gokiimax/perplex-bot">Perplex Bot</a></b>
   </samp>
 <br> 
 <br> 
