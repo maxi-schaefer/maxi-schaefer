@@ -6,7 +6,7 @@
   <br>
   <samp>
     Current Project:
-    <b><a href="https://github.com/gokiimax/perplex-bot">Perplex Bot</a></b>
+    <b><a href="https://github.com/gokiimax/eve-bot">EVE Bot</a></b>
   </samp>
 <br> 
 <br> 
