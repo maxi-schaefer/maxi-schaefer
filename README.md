@@ -5,8 +5,16 @@
   </samp>
   <br>
   <samp>
-    Current Project:
-    <b><a href="https://dsc.gg/eve-bot">EVE Bot</a></b>
+    EVE Bot:
+    <b><a href="https://gokiimax.github.io/EVE">EVE Bot</a></b>
+  </samp>
+    <samp>
+    Ticketing Bot:
+    <b><a href="https://gokiimax.github.io/ticketing">EVE Bot</a></b>
+  </samp>
+    <samp>
+    Shop:
+    <b><a href="https://gokimax.sellix.io/ ">EVE Bot</a></b>
   </samp>
 <br> 
 <br> 
