@@ -1,21 +1,18 @@
 <p align="center">
-  <samp>
-    gokiimax:
-    <b><a href="https://gokiimax.github.io/">Website</a></b>
-  </samp>
-  <br>
+<samp>
+    🛒 Shop:
+    <b><a href="https://gokimax.sellix.io/ ">EVE Bot</a></b>
+</samp>
+<br>
   <samp>
     EVE Bot:
     <b><a href="https://gokiimax.github.io/EVE">EVE Bot</a></b>
   </samp>
-    <samp>
-    Ticketing Bot:
-    <b><a href="https://gokiimax.github.io/ticketing">EVE Bot</a></b>
-  </samp>
-    <samp>
-    Shop:
-    <b><a href="https://gokimax.sellix.io/ ">EVE Bot</a></b>
-  </samp>
+<br>
+<samp>
+	Ticketing Bot:
+	<b><a href="https://gokiimax.github.io/ticketing">EVE Bot</a></b>
+</samp>
 <br> 
 <br> 
 	<p align="center">
