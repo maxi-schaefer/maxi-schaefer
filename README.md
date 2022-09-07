@@ -1,17 +1,17 @@
 <p align="center">
 <samp>
     🛒 Shop:
-    <b><a href="https://gokimax.sellix.io/ ">EVE Bot</a></b>
+    <b><a href="https://gokimax.sellix.io/ ">Link</a></b>
 </samp>
 <br>
   <samp>
     EVE Bot:
-    <b><a href="https://gokiimax.github.io/EVE">EVE Bot</a></b>
+    <b><a href="https://gokiimax.github.io/EVE">Website</a></b>
   </samp>
 <br>
 <samp>
 	Ticketing Bot:
-	<b><a href="https://gokiimax.github.io/ticketing">EVE Bot</a></b>
+	<b><a href="https://gokiimax.github.io/ticketing">Website</a></b>
 </samp>
 <br> 
 <br> 
