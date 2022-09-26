@@ -1,8 +1,8 @@
 <p align="center">
-<samp>
-    🛒 Shop:
-    <b><a href="https://gokimax.sellix.io/ ">Link</a></b>
-</samp>
+  <samp>
+    Personal Website:
+    <b><a href="https://gokimax.netlify.app/">Website</a></b>
+  </samp>
 <br>
   <samp>
     EVE Bot:
