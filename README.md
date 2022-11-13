@@ -6,7 +6,7 @@ You should check out my website for detailed statistics on my recent activity \
 [**gokiimax.github.io**](https://gokiimax.github.io)
 
 If you don't follow me on Twitter you're missing out, I'm active over there most the time. \
-🐦 | [**@gokimax_x**](https://twitter.com/gokimax_x)
+🐦 : [**@gokimax_x**](https://twitter.com/gokimax_x)
 
 Discord : [**dsc.gg/gokimax**](https://dsc.gg/gokimax) \
 
