@@ -1,5 +1,7 @@
 Hey there 👋, my name's Maxi, I'm 16 years old, currently living in the beatiful city known as Munich.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokiimax&label=Profile%20views&color=blueviolet&style=flat" alt="mxrch" /> </p>
+
 I'm a self-thaught Developer who is obsessed with creating something new.
 
 You should check out my website for detailed statistics on my recent activity \
