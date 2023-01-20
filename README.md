@@ -1,6 +1,6 @@
 Hey there 👋, my name's Maxi, I'm 16 years old, currently living in the beatiful city known as Munich.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokiimax&label=Profile%20views&color=blueviolet&style=flat" alt="mxrch" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gokiimax&label=Profile%20views&color=blueviolet&style=flat" alt="mxrch" /> </p>
 
 I'm a self-thaught Developer who is obsessed with creating something new.
 
@@ -10,5 +10,7 @@ You should check out my website for detailed statistics on my recent activity \
 If you don't follow me on Twitter you're missing out, I'm active over there most the time. \
 🐦 : [**@gokimax_x**](https://twitter.com/gokimax_x)
 
-Discord : [**dsc.gg/gokimax**](https://dsc.gg/gokimax) \
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gokiimax&theme=tokyonight&hide_border=true"/>
+</p>
 
