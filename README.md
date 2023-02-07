@@ -7,9 +7,6 @@ I'm a self-thaught Developer who is obsessed with creating something new.
 You should check out my website for detailed statistics on my recent activity \
 [**gokimax.netlify.app**](https://gokimax.netlify.app)
 
-If you don't follow me on Twitter you're missing out, I'm active over there most the time. \
-🐦 : [**@gokimax_x**](https://twitter.com/gokimax_x)
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gokiimax&theme=tokyonight&hide_border=true"/>
 </p>
