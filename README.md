@@ -5,7 +5,7 @@ Hey there 👋, my name's Maxi, I'm 16 years old, currently living in the beatif
 I'm a self-thaught Developer who is obsessed with creating something new.
 
 You should check out my website for detailed statistics on my recent activity \
-[**gokimax.netlify.app**](https://gokimax.netlify.app)
+[**Stats**](https://github-stats-user.netlify.app/)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gokiimax&theme=tokyonight&hide_border=true"/>
