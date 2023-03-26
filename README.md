@@ -7,7 +7,7 @@ Hi, I'm Maxi Schäfer!
 </h1>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Maxi.Schaefer.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Maxi.Schaefer.png" alt="TryHackMe">
 </p>
 
 <p align="center">
