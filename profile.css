@@ -1,19 +1,15 @@
 :root {
-  // Colors
   --main-color: #9340ff;
   --default: #9340ff;
   --bg: #0c0c0c;
   --elements: #111111;
   --font: #d4d4d4;
   --font-darker: #6b6b6b;
-
-  // Shadow
+  
   --shadow: 10px 10px 0px #00000059;
   
-  // Common Border
   --border-radius: 20px;
   --border: 1px solid #171717;
 
-  // Profile Picture
   --profileBorder: 6px solid #9340ff;
 }
