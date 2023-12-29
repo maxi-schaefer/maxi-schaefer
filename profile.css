@@ -1,8 +1,22 @@
 :root {
-  --primary: #2de3bc;
-  --bg: #181e21;
-  --elements: #1e2529;
-  --elements-hover: #242c30;
-  --font: #fcfcfc;
+  // Colors
+  --primary: #8ec07c;
+  --bg: #0f0f0f;
+  --elements: #161616;
+  --elements-hover: #1d1d1d;
+  --font: #ebdbb2;
   --font-darker: #5e5e5e;
+
+  // Shadow
+  --shadow-color: #0000008e;
+  --shadow-bottom: 10px;
+  --shadow-side: 10px;
+  --shadow-spread: 0;
+  
+  // Common Border
+  --border-radius: 12px;
+  --border: 1px solid var(--font-darker);
+
+  // Profile Picture
+  --profileBorder: 5px solid var(--primary);
 }
