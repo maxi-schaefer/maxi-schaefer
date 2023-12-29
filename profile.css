@@ -17,10 +17,4 @@
             background-color: #232c3b;
         }
     }
-
-  transition: all .3s ease-in-out;
-
-  a:hover {
-    color: var(--default);
-  }
 }
