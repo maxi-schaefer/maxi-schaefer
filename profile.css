@@ -2,13 +2,19 @@
   --default: #4abdff;
   --bg: #171e29;
   --elements: #1d2633;
-  --font: #d1d1d1;
-  --font-darker: #b3b3b3;
+  --font: #edd8b4;
+  --font-darker: #5c5c5c;
   
   --shadow: 10px 10px 0px #00000059;
   
   --border-radius: 20px;
-  --border: 1px solid var(--font-darker);
+  --border: 0px solid var(--font-darker);
 
   --profileBorder: 4px solid var(--default);
+
+    .infoList {
+        li {
+            background-color: #232c3b;
+        }
+    }
 }
