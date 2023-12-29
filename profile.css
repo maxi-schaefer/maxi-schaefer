@@ -11,16 +11,9 @@
   --shadow: 10px 10px 0px #00000059;
   
   // Common Border
-  --border-radius: 12px;
-  --border: 0px solid var(--font-darker);
+  --border-radius: 20px;
+  --border: 1px solid #171717;
 
   // Profile Picture
   --profileBorder: 6px solid #9340ff;
-
-  .value {
-    text-shadow: 0px 0px 10px var(--default);
-  }
-  .type {
-    text-shadow: 0px 0px 10px var(--font);
-  }
 }
