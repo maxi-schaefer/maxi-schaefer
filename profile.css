@@ -3,12 +3,12 @@
   --bg: #171e29;
   --elements: #1d2633;
   --font: #d1d1d1;
-  --font-darker: #6b6b6b;
+  --font-darker: #b3b3b3;
   
   --shadow: 10px 10px 0px #00000059;
   
   --border-radius: 20px;
-  --border: 1px solid #171717;
+  --border: 1px solid var(--font-darker);
 
   --profileBorder: 4px solid var(--default);
 }
