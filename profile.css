@@ -1,6 +1,7 @@
 :root {
   // Colors
   --main-color: #9340ff;
+  --default: #9340ff;
   --bg: #0c0c0c;
   --elements: #111111;
   --font: #d4d4d4;
@@ -14,19 +15,12 @@
   --border: 1px solid var(--font-darker);
 
   // Profile Picture
-  --profileBorder: 6px solid #9340ff;;
+  --profileBorder: 6px solid #9340ff;
 
   .value {
-    text-shadow: 0px 0px 0px var(--main-color);
+    text-shadow: 0px 0px 10px var(--main-color);
   }
   .type {
-    text-shadow: 0px 0px 0px var(--font);
-  }
-  h1 {
-    color: #9340ff;
-    text-shadow: 0px 0px 0px var(--font);
-  }
-  .profilePictureWrapper {
-    box-shadow: 0px 0px 0px var(--main-color);
+    text-shadow: 0px 0px 10px var(--font);
   }
 }
