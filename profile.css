@@ -5,14 +5,14 @@
   --bg: #0c0c0c;
   --elements: #111111;
   --font: #d4d4d4;
-  --font-darker: #292929;
+  --font-darker: #6b6b6b;
 
   // Shadow
   --shadow: 10px 10px 0px #00000059;
   
   // Common Border
   --border-radius: 12px;
-  --border: 1px solid var(--font-darker);
+  --border: 0px solid var(--font-darker);
 
   // Profile Picture
   --profileBorder: 6px solid #9340ff;
