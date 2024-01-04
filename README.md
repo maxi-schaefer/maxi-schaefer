@@ -9,8 +9,10 @@
 - 🏋🏻 Gym Enjoyer
 - I ♥️ to code!
 
-```
-         _nnnn_                      
+```bash
+max@github ~# ./cool_ascii_art.sh
+
+"        _nnnn_                      
         dGGGGMMb     ,"""""""""""""".
        @p~qp~~qMb    | Linux Rules! |
        M|@||@) M|   _;..............'
@@ -25,7 +27,7 @@
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMM|   .'
-     `-'       `--' 
+     `-'       `--'"
 ```
 
 <h3 align="center">Languages and Tools :3</h3>
