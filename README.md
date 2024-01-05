@@ -10,7 +10,7 @@
 - I ♥️ to code!
 
 ```bash
-max@github ~# ./cool_ascii_art.sh
+max@github:~ # ./cool_ascii_art.sh
 
 "        _nnnn_                      
         dGGGGMMb     ,"""""""""""""".
