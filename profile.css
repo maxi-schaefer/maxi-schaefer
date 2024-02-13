@@ -1,0 +1,18 @@
+:root {
+  --primary: #7842f5;
+  --bg: #0d0d0d;
+  --elements: #121212;
+  --font: #d4d4d4;
+  --font-darker: #292929;
+
+  --shadow: -10px 10px 0px #00000059;
+
+  --border-radius: 20px;
+  --border: 1px solid var(--font-darker);
+
+  --profileBorder: 6px solid var(--primary);
+
+  .profileDescription {
+    color: #2e2e2e;
+  }
+}
