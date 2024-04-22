@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maxi-schaefer&label=Am%20I%20fame%20yet?&color=1f3a60&style=for-the-badge" alt="maxi-schaefer" /> </p>
 
 - 🌎 Visit me on my Website [https://gokimax.netlify.app](https://gokimax.netlify.app)
-- ⚒️ Currently working on [Vortex]("https;//github.com/maxi-schaefer/vortex")
+- ⚒️ Currently working on [Vortex](https;//github.com/maxi-schaefer/vortex)
 - 💻 Self-taught Developer i Guess (づ｡◕‿‿◕｡)づ
 - 🏋🏻 Gym Enjoyer
 - I ♥️ to code!
