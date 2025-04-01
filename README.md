@@ -9,5 +9,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maxi-schaefer&label=Am%20I%20fame%20yet?&color=1f3a60&style=for-the-badge" alt="maxi-schaefer" /> </p>
 
 - 🌎 Visit me on my [Website](https://gokimax.dev)
-- ⚒️ Currently working on [Vortex](https://github.com/maxi-schaefer/vortex)
+- ⚒️ Currently working on [OrgSync](https://orgsync.io)
 - 🏋🏻 Gym Enjoyer
