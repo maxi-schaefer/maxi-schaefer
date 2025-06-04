@@ -15,16 +15,16 @@
 
 ```bash
 # Now
-> Building OrgSync.io
+> Building Invana
 > Exploring red & blue team ops
 > Writing clean, useful code
 ```
 
 ```bash
 # Skills
-Languages:   Python · TypeScript · C++ · Rust · Bash
+Languages:   Python · TypeScript · C++ · Rust · Bash · Java
 Tools:       Nmap · Burp Suite · Metasploit · Docker
-Frameworks:  React · Next.js · Tailwind · Node.js
+Frameworks:  React · Next.js · Tailwind · Node.js · Spring-Boot
 ```
 
 
