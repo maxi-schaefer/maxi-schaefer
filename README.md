@@ -5,7 +5,12 @@
   <code>Germany, 18 y/o</code>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maxi-schaefer&label=Am%20I%20fame%20yet?&color=1f3a60&style=for-the-badge" alt="maxi-schaefer" /> </p>
+<p align="center">
+  <a href="https://discord.com/users/1106596197306744882" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1106596197306744882" alt="Discord"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://tryhackme.com/r/p/Maxi.Schaefer" target="_blank">
