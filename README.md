@@ -6,18 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1106596197306744882" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1106596197306744882" alt="Discord"/>
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://tryhackme.com/r/p/Maxi.Schaefer" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Maxi.Schaefer.png" alt="TryHackMe Badge"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/1106596197306744882" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1106596197306744882" alt="Discord"/>
+  </a>
+</p>
 ---
 
 ```bash
