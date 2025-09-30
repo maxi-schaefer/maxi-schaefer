@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/r/p/Maxi.Schaefer" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Maxi.Schaefer.png" alt="TryHackMe Badge"/>
+  <a href="https://tryhackme.com/r/p/gokimax" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/gokimax.png" alt="Your Image Badge" />
   </a>
 </p>
 ---
