@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/r/p/gokimax" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/gokimax.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/gokimax.png" alt="Your Image Badge" />
   </a>
 </p>
 ---
