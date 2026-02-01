@@ -2,7 +2,7 @@
 
 <p align="center">
   <code>Cybersecurity · Developer · Builder</code><br/>
-  <code>Germany, 18 y/o</code>
+  <code>Germany, 19 y/o</code>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ```bash
 # Now
-> Building Invana
+> Building Flint
 > Exploring red & blue team ops
 > Writing clean, useful code
 ```
