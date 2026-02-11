@@ -10,6 +10,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/gokimax.png" alt="Your Image Badge" />
   </a>
 </p>
+
 ---
 
 ```bash
@@ -27,10 +28,8 @@ Frameworks:  React · Next.js · Tailwind · Node.js · Spring-Boot
 ```
 
 
-```bash
 # Links
 [Website]  gokimax.dev
 [Twitter]  twitter.com/gokimax_x
-```
 
 <p align="center"> <img src="https://raw.githubusercontent.com/maxi-schaefer/maxi-schaefer/fa319badeda57133f5f818722eb56c04feb11551/github-contribution-grid-snake-dark.svg" width="95%"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=maxi-schaefer&label=Profile%20Views&color=0e75b6&style=flat-square" /> </p>
