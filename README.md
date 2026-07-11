@@ -14,13 +14,6 @@
 ---
 
 ```bash
-# Now
-> Building Flint
-> Exploring red & blue team ops
-> Writing clean, useful code
-```
-
-```bash
 # Skills
 Languages:   Python · TypeScript · C++ · Rust · Bash · Java
 Tools:       Nmap · Burp Suite · Metasploit · Docker
